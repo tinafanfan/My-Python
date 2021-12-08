@@ -1,7 +1,6 @@
->>> "foo" in "foobar"
-True
->>> "foo" in ["bar", "foo", "foobar"]
-True
->>> "Foo" not in 
-["bar", "foo", "foobar"]
-True
+"foo" in "foobar"
+
+"foo" in ["bar", "foo", "foobar"]
+
+"Foo" not in ["bar", "foo", "foobar"]
+
