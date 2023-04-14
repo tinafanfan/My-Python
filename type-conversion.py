@@ -20,3 +20,6 @@ list = tensor.numpy().tolist() # 先转 numpy，后转 list
 tensor = torch.from_numpy(ndarray) 
 # numpy to list
 list = ndarray.tolist()
+
+# pd.dataframe to numpy
+df.to_numpy
