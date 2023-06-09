@@ -76,7 +76,8 @@ idna==3.4
 # imagecodecs @ file:///tmp/build/80754af9/imagecodecs_1635529108216/work
 imagecodecs==2023.3.16
 imageio==2.19.1
-importlib-metadata==4.11.3
+# importlib-metadata==4.11.3 # dask 2023.5.1 depends on importlib-metadata>=4.13.0
+importlib-metadata==4.13.0
 # iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
 iniconfig==2.0.0
 ipykernel==6.13.0
@@ -231,11 +232,11 @@ tinycss2==1.1.1
 tomli==2.0.1
 # toolz @ file:///tmp/build/80754af9/toolz_1636545406491/work
 toolz==0.12.0
-torch==1.9.0+cu111
+# torch==1.9.0+cu111
 torchaudio==0.11.0
 torchdiffeq==0.2.3
 torchmetrics==0.8.2
-torchvision==0.11.1+cu113
+# torchvision==0.11.1+cu113
 tornado==6.1
 tqdm==4.64.0
 traitlets==5.2.1.post0
