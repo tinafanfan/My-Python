@@ -175,7 +175,7 @@ pyOpenSSL==23.2.0
 pyparsing==3.0.9
 pyrsistent==0.18.1
 # PySocks @ file:///tmp/build/80754af9/pysocks_1605305812635/work
-PySocks==3.9 2.0
+PySocks==1.7.1
 pytest==7.1.1
 # pytest-runner @ file:///tmp/build/80754af9/pytest-runner_1623663836848/work
 pytest-runner==6.0.0
